@@ -1,0 +1,32 @@
+Ethics Questions
+
+1. Brin and Page were worried that search companies that were paid by advertisers would be inclined to modify their
+ranking of results to give more favorable treatment to those advertisers? Do you believe this is a concern and if so,
+what approach (at a high-level) might you suggest to address it?
+
+This is a concern because it would ultimately effect the user. The information that a user may be searching for to
+solve their problem may be freely available, but if the first thing that they see is a website that advertises a paid
+solution that costs money (the advertiser's product), then this creates an unbalanced experience for the user. One
+thing that I find helpful when searching online is how Google informs me that a particular result, usually one that
+is towards the top of the ranking list, is sponsored. By providing the user with this information, they can make
+the choice as to whether they would like to continue to learn more about what is being advertised on the website, or
+if they would rather click on a website that was ranked high on the list because it more closely matched what the user
+was searching for.
+
+
+
+2. In this excerpt, Brin and Page express concerns about the negative impacts of advertising on search engine quality
+and results. Their main observation is that monetary incentives are likely to bias search engine results such that
+they are less likely to provide the most relevant content to the searcher. Bias towards advertisers is not the only
+potential problem with search results, however. Based on our discussion in lecture, how might you address these
+problems? How could you alter or extend your Bajillion search engine to deliver multiple perspectives to the same
+searcher? To deliver personalized results? To be more transparent about why it delivers the results it does? Which of
+these goals is most important and why?
+
+In class we learned that the term 'relevant' is a loaded term that should be closely considered as it is used in
+ranking results for a search request. An important question to consider is who is this information most relevant to
+and who gets to decide that one website is more relevant to the user than another one. The answer to this question has
+significant implications, and I would extend the Bajillion search engine to allow the user to mark certain results as
+not relevant to them, that way each user gets a personalized result as the engine learns from and adapts to the user's
+needs. This would give the user the option of having a much more customized experience that is tailored to what they
+deem as most relevant to them, and not what someone else had decided is most relevant to them. 
