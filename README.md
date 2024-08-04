@@ -1,4 +1,4 @@
-# cs-106a-assignment-7-search-engine
+# search-engine-python
 
 run this command in the "extension_server.py" file to run program in a locally hosted webpage on localhost:8000: 
 python3 extension_server.py
